@@ -1,5 +1,5 @@
-# The largest and smallest number in an unsorted integer array?
-# firstly sort the array
+# sort an array
+# it will be done using brute force
 def find_small(data):
     test = []
     while data:
